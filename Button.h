@@ -2,7 +2,7 @@
  * Button library
  *
  * @author Roland Rusch <roland@rusch.lu>
- * @version 0.0.0-dev
+ * @version 0.0.1
  */
 
 
